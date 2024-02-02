@@ -1,1 +1,1 @@
-# estrutura-de-deados
+# estrutura-de-dados
